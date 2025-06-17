@@ -1,5 +1,5 @@
 
-readme_content = """<!--
+<!--
   🌌 Futuristic Ultra-Advanced GitHub Profile README for Ansh Rajore
 -->
 
