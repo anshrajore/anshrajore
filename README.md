@@ -1,4 +1,3 @@
-# Save the advanced GitHub README content into a README.md file
 
 readme_content = """<!--
   🌌 Futuristic Ultra-Advanced GitHub Profile README for Ansh Rajore
