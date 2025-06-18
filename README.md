@@ -1,4 +1,3 @@
-
 <!--
   🌌 Futuristic Ultra-Advanced GitHub Profile README for Ansh Rajore
 -->
@@ -33,7 +32,7 @@
 
 ## 🧰 Tech Stack
 
-\`\`\`bash
+```bash
 Languages     :: Python | Java | JavaScript | TypeScript
 Frontend      :: React | Tailwind | GSAP | Three.js | HTML/CSS
 Backend       :: Node.js | Express | MongoDB | Firebase
@@ -41,13 +40,13 @@ Cloud/DevOps  :: GitHub Actions | Netlify | Vercel | Railway | Heroku
 Design        :: Figma | Canva | Adobe XD
 AI/ML         :: OpenAI | TensorFlow | Scikit-learn | LLaMA | GenAI Tools
 Other         :: WebRTC | REST APIs | AR.js | Chart.js
-\`\`\`
+```
 
 ---
 
-## 🏆 Hackathon Journey
+## 🏆 Hackathon & Startup Journey (15+ Events)
 
-|🏅 Hackathon|🏁 Position|📍 Location/Organizer|
+|🏅 Hackathon/Startup Event|🏁 Role/Position|📍 Location/Organizer|
 |---|---|---|
 | Smart Axis Hackathon | 1st Runner-Up | Mumbai |
 | Hack2Infinity | Winner | RGIT, Mumbai |
@@ -56,42 +55,54 @@ Other         :: WebRTC | REST APIs | AR.js | Chart.js
 | SIH (Smart India Hackathon) | Women Safety App | National Level |
 | Mumbai Hacks – GenAI | Guinness Record Hackathon | AI Climate Tech |
 | Kumbhathon | Tech Innovator | Nashik |
-| Prarambh (National Startup Day) | Selected Innovator | Govt of India |
+| Prarambh | Selected Innovator | Govt of India |
+| Code Warrior | Finalist | Pune |
+| HackHub | AI Developer | Online |
+| DevNova | Top 3 | Virtual |
+| Startup Expo | Presenter | Mumbai |
+| TechSpark | Jury Mention | VIT |
+| CodeIgnite | Winner | MIT-WPU |
+| Hackathon X | Lead Dev | IIT Bombay |
 
 ---
 
-## 📈 GitHub Analytics & Charts
+## 📊 Hackathon & Innovation Graph
 
-<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshrajore&show_icons=true&theme=tokyonight&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anshrajore&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" height="165"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshrajore&theme=react-dark&bg_color=0d1117&line=00ffe1&point=ffffff"/>
 </p>
 
-<!-- Top Languages -->
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anshrajore&show_icons=true&theme=tokyonight&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anshrajore&theme=tokyonight" height="165"/>
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshrajore&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
-<!-- GitHub Trophies -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=anshrajore&theme=tokyonight&column=7&margin-w=8&margin-h=15"/>
 </p>
 
-<!-- Contribution Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshrajore&theme=tokyo-night&bg_color=00000000"/>
-</p>
-
 ---
 
-## 🧭 Vision Board
+## 🧭 Vision Board — 2025 & Beyond
 
-- [ ] 🌱 Expand into **Agent-based AI Systems**
-- [ ] 🔒 Develop **Next-Gen Cyber Defense Tools**
-- [ ] 🧑‍🏫 Build **VR/AR-based Educational Platforms**
-- [ ] 🌍 Launch **Climate Impact Solutions** (Tree Plantation NEP Tracker)
-- [ ] 📖 Contribute to **Open Source** & tech-for-good communities
+🚀 *Charting a path towards impactful, ethical, and immersive tech futures.*
+
+| 🌟 Goal | 💡 Description | 📅 ETA |
+|--------|----------------|--------|
+| 🤖 Autonomous AI Agents | Design self-learning agents that assist blue-collar workers and automate repetitive tasks | 2025 Q4 |
+| 🛡️ Cyber Defense X | Architect AI-powered cybersecurity systems that adapt to evolving threats in real-time | 2026 Q1 |
+| 🧠 XR Education Realms | Launch immersive VR/AR platforms for interactive learning experiences in science & SDGs | 2025 Q3 |
+| 🌱 NEP Green Ledger | Deploy an AI-integrated tree plantation & climate tracker aligned with NEP 2020 | 2025 Q2 |
+| 🔓 Open Source Crusade | Actively contribute to open-source projects and mentor young tech enthusiasts globally | Ongoing |
+| 🌍 Climate-Conscious Innovation | Build tools that visualize individual impact on climate using GenAI and public datasets | 2026 Q1 |
 
 ---
 
@@ -115,11 +126,3 @@ Other         :: WebRTC | REST APIs | AR.js | Chart.js
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-"""
-
-# Save it to a markdown file
-with open("/mnt/data/README.md", "w") as f:
-    f.write(readme_content)
-
-"/mnt/data/README.md"
-
