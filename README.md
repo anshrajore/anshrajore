@@ -4,7 +4,7 @@
 
 <!-- 🔮 Banner Section -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Ansh%20Rajore%20%7C%20Dark%20Arcane%20Leader&fontAlign=50&fontAlignY=40&color=gradient&customColorList=8f00ff,00fff0,6f42c1&fontSize=50&desc=AI%20%E2%9C%A8%20ML%20%E2%9C%A8%20GenAI%20%E2%9C%A8%20VR%20%E2%9C%A8%203D%20Web%20%E2%9C%A8%20Cybersecurity&descAlign=50&descAlignY=70" alt="Banner"/>
+  <img src="https://i.postimg.cc/NMsbST4p/temp-Image-MXd-Lbu.avif" alt="Ansh Rajore | Leader Team Dark Arcane Banner" />
 </p>
 
 <!-- 🧠 Typing Effect Intro -->
@@ -77,52 +77,4 @@ Other         :: WebRTC | REST APIs | AR.js | Chart.js
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshrajore&show_icons=true&theme=tokyonight&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anshrajore&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshrajore&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anshrajore&theme=tokyonight&column=7&margin-w=8&margin-h=15"/>
-</p>
-
----
-
-## 🧭 Vision Board — 2025 & Beyond
-
-🚀 *Charting a path towards impactful, ethical, and immersive tech futures.*
-
-| 🌟 Goal | 💡 Description | 📅 ETA |
-|--------|----------------|--------|
-| 🤖 Autonomous AI Agents | Design self-learning agents that assist blue-collar workers and automate repetitive tasks | 2025 Q4 |
-| 🛡️ Cyber Defense X | Architect AI-powered cybersecurity systems that adapt to evolving threats in real-time | 2026 Q1 |
-| 🧠 XR Education Realms | Launch immersive VR/AR platforms for interactive learning experiences in science & SDGs | 2025 Q3 |
-| 🌱 NEP Green Ledger | Deploy an AI-integrated tree plantation & climate tracker aligned with NEP 2020 | 2025 Q2 |
-| 🔓 Open Source Crusade | Actively contribute to open-source projects and mentor young tech enthusiasts globally | Ongoing |
-| 🌍 Climate-Conscious Innovation | Build tools that visualize individual impact on climate using GenAI and public datasets | 2026 Q1 |
-
----
-
-## 🌐 Let's Connect!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ansh-rajore-98a7b629b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Soon-blueviolet?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Soon-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<!-- Footer Waves -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=anshrajore&show_icons=true
