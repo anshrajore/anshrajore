@@ -1,123 +1,103 @@
-<!--
-  🌌 Futuristic Ultra-Advanced GitHub Profile README for Ansh Rajore
--->
+# Ansh Rajore
 
-<!-- 🔮 Banner Section -->
-<p align="center">
-  <img src="https://i.postimg.cc/NMsbST4p/temp-Image-MXd-Lbu.avif" alt="Ansh Rajore | Leader Team Dark Arcane Banner" />
-</p>
-
-<!-- 🧠 Typing Effect Intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=FF00CC&center=true&vCenter=true&width=850&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Ansh+Rajore!;Tech+Architect+%7C+AI%2C+ML%2C+VR%2C+Cybersecurity+%7C+Team+Dark+Arcane;Turning+Ideas+into+Impactful+Tech!"/>
-</p>
-
-<!-- 🛰️ Visitor Badge -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anshrajore&label=👀+Profile+Visitors&color=purple&style=flat" />
-</p>
+Computer Science Student (AI / ML / VR)  
+Full-Stack Developer | AI & Generative AI Enthusiast  
+Founder – NayaMarg
 
 ---
 
-## 👨‍💻 Who Am I?
+## About Me
 
-> **🚀 Tech Alchemist | 🎓 B.Sc CS (AI/ML/VR) | 🌏 Impact-Driven Innovator**
+I am a Computer Science student at Sandip University focused on building scalable web applications and AI-powered systems.
 
-- 🎯 Leader of Team **Dark Arcane**
-- 👨‍🏫 AI, Machine Learning & Cybersecurity Enthusiast
-- 🌱 Blending **3D Web**, **VR**, and **Generative AI** for real-world impact
-- 🧑‍💻 Explorer of **Agent AI**, **Open Source**, and **Digital Empowerment**
+My interests include:
 
----
+• Full-Stack Development (MERN)  
+• Artificial Intelligence & Generative AI  
+• 3D Web Technologies (Three.js / WebGL)  
+• Cybersecurity & System Design  
 
-## 🧰 Tech Stack
-
-\\\bash
-Languages     :: Python | Java | JavaScript | TypeScript
-Frontend      :: React | Tailwind | GSAP | Three.js | HTML/CSS
-Backend       :: Node.js | Express | MongoDB | Firebase
-Cloud/DevOps  :: GitHub Actions | Netlify | Vercel | Railway | Heroku
-Design        :: Figma | Canva | Adobe XD
-AI/ML         :: OpenAI | TensorFlow | Scikit-learn | LLaMA | GenAI Tools
-Other         :: WebRTC | REST APIs | AR.js | Chart.js
-\\\
+I enjoy participating in hackathons and building real-world technology solutions related to climate impact, education, and digital systems.
 
 ---
 
-## 🏆 Hackathon Journey
+## Tech Stack
 
-|🏅 Hackathon|🏁 Position|📍 Location/Organizer|
-|---|---|---|
-| Smart Axis Hackathon | 1st Runner-Up | Mumbai |
-| Hack2Infinity | Winner | RGIT, Mumbai |
-| Hackprix | 1st Runner-Up | Hyderabad |
-| NASA Space Apps | Backend Lead | SDG Climate Project |
-| SIH (Smart India Hackathon) | Women Safety App | National Level |
-| Mumbai Hacks – GenAI | Guinness Record Hackathon | AI Climate Tech |
-| Kumbhathon | Tech Innovator | Nashik |
-| Prarambh (National Startup Day) | Selected Innovator | Govt of India |
+**Languages**
 
----
+Python • JavaScript • TypeScript • Java
 
-## 📈 GitHub Analytics & Charts
+**Frontend**
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshrajore&show_icons=true&theme=tokyonight&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anshrajore&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" height="165"/>
-</p>
+React  
+Next.js  
+TailwindCSS  
+GSAP  
+Three.js  
+HTML5 / CSS3  
 
-<!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshrajore&layout=compact&theme=tokyonight" height="150"/>
-</p>
+**Backend**
 
-<!-- GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anshrajore&theme=tokyonight&column=7&margin-w=8&margin-h=15"/>
-</p>
+Node.js  
+Express.js  
+MongoDB  
+Firebase  
+REST APIs  
 
-<!-- Contribution Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshrajore&theme=tokyo-night&bg_color=00000000"/>
-</p>
+**AI / Data**
 
----
+OpenAI API  
+TensorFlow  
+Scikit-learn  
+Vector Databases  
+RAG Systems  
 
-## 🧭 Vision Board
+**Tools**
 
-- [ ] 🌱 Expand into **Agent-based AI Systems**
-- [ ] 🔒 Develop **Next-Gen Cyber Defense Tools**
-- [ ] 🧑‍🏫 Build **VR/AR-based Educational Platforms**
-- [ ] 🌍 Launch **Climate Impact Solutions** (Tree Plantation NEP Tracker)
-- [ ] 📖 Contribute to **Open Source** & tech-for-good communities
+Git  
+GitHub  
+Docker  
+Vercel  
+Netlify  
+Figma  
 
 ---
 
-## 🌐 Let's Connect!
+## Selected Projects
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ansh-rajore-98a7b629b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Soon-blueviolet?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Soon-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-</p>
+### Cosmos Guide
+AI-powered climate education platform using NASA datasets that teaches students about sustainability and SDGs.
+
+### NEP Tree Plantation Tracker
+Digital system that tracks tree plantation initiatives aligned with NEP 2020 and SDG 13.
+
+### Women Safety First (SIH Project)
+Mobile-first platform focused on improving women’s safety through emergency response and location tracking.
 
 ---
 
-<!-- Footer Waves -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-"""
+## Hackathons
 
-# Save it to a markdown file
-with open("/mnt/data/README.md", "w") as f:
-    f.write(readme_content)
+• NASA Space Apps Challenge  
+• Smart India Hackathon  
+• Mumbai Hacks – GenAI Hackathon  
+• Kumbhathon  
+• HackPrix  
 
-"/mnt/data/README.md"
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshrajore&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshrajore&layout=compact)
+
+---
+
+## Connect
+
+LinkedIn  
+https://www.linkedin.com/in/ansh-rajore-98a7b629b/
+
+Email  
+(Your email here)
