@@ -1,140 +1,246 @@
-# Ansh Rajore
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Ansh%20Rajore&fontSize=45&fontColor=ffffff"/>
+</p>
 
-B.Sc. Computer Science (AI, ML & VR) student at Sandip University.  
-Full-stack developer focused on AI systems, scalable web applications, and data-driven products.
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+%2F+ML+Engineer;Hackathon+Innovator;Three.js+Developer;Open+Source+Enthusiast&center=true&width=500&height=45">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anshrajore&label=Profile%20views&color=0e75b6&style=flat"/>
+  <img src="https://img.shields.io/github/followers/anshrajore?label=Followers&style=social"/>
+</p>
 
 ---
 
-## About
+# 👋 About Me
 
-I build intelligent systems that combine **AI/ML, full-stack engineering, and data visualization**.
+🎓 **B.Sc. Computer Science (AI • ML • VR)**  
+🏫 Sandip University — Nashik, India  
+
+💡 I build **AI powered systems, scalable web applications, and immersive XR experiences.**
 
 My work focuses on:
-- AI-powered applications
-- scalable web platforms
-- real-time data analytics
-- immersive web technologies (Three.js / WebXR)
 
-I enjoy building practical solutions that translate complex data into usable tools.
+- 🤖 Artificial Intelligence Applications  
+- 🌐 Full Stack Web Development  
+- 📊 Data Visualization & Analytics  
+- 🧠 Machine Learning Systems  
+- 🥽 WebXR / Three.js Experiences  
 
----
-
-## Technical Skills
-
-**Languages**
-Python • Java • JavaScript • C • SQL
-
-**Frontend**
-React.js • Tailwind CSS • GSAP • HTML • CSS
-
-**Backend**
-Node.js • Express.js • REST APIs
-
-**Databases**
-MongoDB • MySQL
-
-**AI / Machine Learning**
-TensorFlow • PyTorch • Scikit-learn • Hugging Face
-
-**Visualization & XR**
-Three.js • D3.js • WebXR • VR/AR SDKs
-
-**Dev Tools**
-Git • Docker • CI/CD • GitHub Actions • Agile/Scrum
+🚀 I enjoy transforming **complex data into real-world products.**
 
 ---
 
-## Featured Projects
+# 🧠 Tech Stack
 
-### Blood Monitoring System
-Real-time blood inventory tracking platform.
+### Languages
 
-Key Features:
-- Predictive analytics model for shortage forecasting
-- Blockchain-based transparency layer
-- automated donor & hospital notifications
+<p align="center">
 
-Tech Stack  
-Python • ML Models • Blockchain • Web Dashboard
+<img src="https://skillicons.dev/icons?i=python,java,js,c,sql"/>
 
----
+</p>
 
-### AI-Guided Financial Narrative Generator
-Transforms market data and sentiment signals into actionable financial insights.
+### Frontend
 
-Key Features:
-- real-time financial narrative generation
-- probabilistic trading signals
-- automated alert system
+<p align="center">
 
-Tech Stack  
-Python • NLP • Data Pipelines
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css"/>
 
----
+<img src="https://skillicons.dev/icons?i=threejs"/>
 
-### Shopping Trends Analytics
-Consumer behaviour analytics platform.
+</p>
 
-Key Features:
-- ML models for trend prediction
-- interactive dashboards for business insights
-- seasonal purchasing pattern analysis
+### Backend
 
-Tech Stack  
-Python • Pandas • Matplotlib • ML
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 
-### MindWave Companion
-AI-powered mental wellness assistant.
+</p>
 
-Key Features:
-- conversational AI support
-- mood tracking & journaling
-- SOS emergency alert with location sharing
+### Databases
 
-Tech Stack  
-AI APIs • Node.js • Web App
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 
-## Experience
+</p>
 
-**Software Engineering Intern**  
-Cognifyz Edunet Foundation (AICTE)
+### AI / ML
 
-- built React dashboards with real-time APIs
-- deployed ML models using Flask + Docker
-- contributed to CI/CD pipelines using GitHub Actions
-- worked within Agile sprint workflows
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+</p>
+
+### DevOps & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,docker,github,githubactions"/>
+
+</p>
 
 ---
 
-## Achievements
+# 💼 Experience
 
-- Top 10 — NASA Space Apps Challenge  
-- Winner — Hack2Infinity (RGIT)  
-- Top 20 — KJSSE Hack 8  
-- Finalist — IIT Bhubaneswar ML Hackathon  
-- Guinness World Record Participant — Mumbai Hacks GenAI Hackathon  
-- Team Lead — Dark Arcane Hackathon Team
+## Software Engineering Intern  
+**Cognifyz Edunet Foundation (AICTE)**
 
----
-
-## Education
-
-B.Sc Computer Science (AI, ML, VR)  
-Sandip University  
-2023 – 2026
-
-GPA: 8.18 / 10
+✔ Developed **interactive dashboards with React.js**  
+✔ Integrated **real-time APIs using Node.js**  
+✔ Deployed **ML models using Flask & Docker**  
+✔ Worked in **Agile development sprints**  
+✔ Built **CI/CD pipelines with GitHub Actions**
 
 ---
 
-## Connect
+# 🧩 Featured Projects
 
-LinkedIn  
-https://www.linkedin.com/in/ansh-rajore
+## 🩸 Blood Monitoring System
 
-Email  
-anshrajore1266@gmail.com
+AI-driven blood inventory management system.
+
+**Highlights**
+
+- Shortage prediction using ML
+- Blockchain transparency layer
+- Automated hospital alerts
+
+**Tech**
+
+`Python` `Machine Learning` `Blockchain`
+
+---
+
+## 📊 AI Financial Narrative Generator
+
+Transforms financial data into **intelligent market insights.**
+
+**Features**
+
+- Automated financial reports
+- Market sentiment analysis
+- Probabilistic trade signals
+
+**Tech**
+
+`Python` `NLP` `Data Pipelines`
+
+---
+
+## 🛍 Shopping Trends Analytics
+
+ML-powered consumer behavior insights platform.
+
+**Features**
+
+- Trend prediction
+- Interactive dashboards
+- Seasonal pattern analysis
+
+**Tech**
+
+`Python` `Pandas` `ML`
+
+---
+
+## 🧠 MindWave Companion
+
+AI-based mental wellness assistant.
+
+**Capabilities**
+
+- Emotional AI chatbot
+- Mood tracking
+- SOS location alerts
+
+**Tech**
+
+`AI APIs` `Node.js`
+
+---
+
+# 🏆 Achievements
+
+| Competition | Result |
+|-------------|--------|
+| NASA Space Apps Challenge | Top 10 |
+| Hack2Infinity | Winner |
+| KJSSE Hack 8 | Top 20 |
+| IIT Bhubaneswar ML Hackathon | Finalist |
+| Mumbai Hacks GenAI | Guinness World Record |
+| Smart India Hackathon | Internal Winner |
+| Kumbhathon | Team Lead |
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=anshrajore&show_icons=true&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshrajore&layout=compact&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshrajore&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshrajore&theme=github"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/ansh-rajore">
+<img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:anshrajore1266@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+⭐ <b>Building intelligent systems and immersive web experiences.</b>
+</p>
