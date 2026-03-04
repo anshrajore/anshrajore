@@ -1,103 +1,140 @@
 # Ansh Rajore
 
-Computer Science Student (AI / ML / VR)  
-Full-Stack Developer | AI & Generative AI Enthusiast  
-Founder – NayaMarg
+B.Sc. Computer Science (AI, ML & VR) student at Sandip University.  
+Full-stack developer focused on AI systems, scalable web applications, and data-driven products.
 
 ---
 
-## About Me
+## About
 
-I am a Computer Science student at Sandip University focused on building scalable web applications and AI-powered systems.
+I build intelligent systems that combine **AI/ML, full-stack engineering, and data visualization**.
 
-My interests include:
+My work focuses on:
+- AI-powered applications
+- scalable web platforms
+- real-time data analytics
+- immersive web technologies (Three.js / WebXR)
 
-• Full-Stack Development (MERN)  
-• Artificial Intelligence & Generative AI  
-• 3D Web Technologies (Three.js / WebGL)  
-• Cybersecurity & System Design  
-
-I enjoy participating in hackathons and building real-world technology solutions related to climate impact, education, and digital systems.
+I enjoy building practical solutions that translate complex data into usable tools.
 
 ---
 
-## Tech Stack
+## Technical Skills
 
 **Languages**
-
-Python • JavaScript • TypeScript • Java
+Python • Java • JavaScript • C • SQL
 
 **Frontend**
-
-React  
-Next.js  
-TailwindCSS  
-GSAP  
-Three.js  
-HTML5 / CSS3  
+React.js • Tailwind CSS • GSAP • HTML • CSS
 
 **Backend**
+Node.js • Express.js • REST APIs
 
-Node.js  
-Express.js  
-MongoDB  
-Firebase  
-REST APIs  
+**Databases**
+MongoDB • MySQL
 
-**AI / Data**
+**AI / Machine Learning**
+TensorFlow • PyTorch • Scikit-learn • Hugging Face
 
-OpenAI API  
-TensorFlow  
-Scikit-learn  
-Vector Databases  
-RAG Systems  
+**Visualization & XR**
+Three.js • D3.js • WebXR • VR/AR SDKs
 
-**Tools**
-
-Git  
-GitHub  
-Docker  
-Vercel  
-Netlify  
-Figma  
+**Dev Tools**
+Git • Docker • CI/CD • GitHub Actions • Agile/Scrum
 
 ---
 
-## Selected Projects
+## Featured Projects
 
-### Cosmos Guide
-AI-powered climate education platform using NASA datasets that teaches students about sustainability and SDGs.
+### Blood Monitoring System
+Real-time blood inventory tracking platform.
 
-### NEP Tree Plantation Tracker
-Digital system that tracks tree plantation initiatives aligned with NEP 2020 and SDG 13.
+Key Features:
+- Predictive analytics model for shortage forecasting
+- Blockchain-based transparency layer
+- automated donor & hospital notifications
 
-### Women Safety First (SIH Project)
-Mobile-first platform focused on improving women’s safety through emergency response and location tracking.
-
----
-
-## Hackathons
-
-• NASA Space Apps Challenge  
-• Smart India Hackathon  
-• Mumbai Hacks – GenAI Hackathon  
-• Kumbhathon  
-• HackPrix  
+Tech Stack  
+Python • ML Models • Blockchain • Web Dashboard
 
 ---
 
-## GitHub Stats
+### AI-Guided Financial Narrative Generator
+Transforms market data and sentiment signals into actionable financial insights.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshrajore&show_icons=true&theme=default)
+Key Features:
+- real-time financial narrative generation
+- probabilistic trading signals
+- automated alert system
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshrajore&layout=compact)
+Tech Stack  
+Python • NLP • Data Pipelines
+
+---
+
+### Shopping Trends Analytics
+Consumer behaviour analytics platform.
+
+Key Features:
+- ML models for trend prediction
+- interactive dashboards for business insights
+- seasonal purchasing pattern analysis
+
+Tech Stack  
+Python • Pandas • Matplotlib • ML
+
+---
+
+### MindWave Companion
+AI-powered mental wellness assistant.
+
+Key Features:
+- conversational AI support
+- mood tracking & journaling
+- SOS emergency alert with location sharing
+
+Tech Stack  
+AI APIs • Node.js • Web App
+
+---
+
+## Experience
+
+**Software Engineering Intern**  
+Cognifyz Edunet Foundation (AICTE)
+
+- built React dashboards with real-time APIs
+- deployed ML models using Flask + Docker
+- contributed to CI/CD pipelines using GitHub Actions
+- worked within Agile sprint workflows
+
+---
+
+## Achievements
+
+- Top 10 — NASA Space Apps Challenge  
+- Winner — Hack2Infinity (RGIT)  
+- Top 20 — KJSSE Hack 8  
+- Finalist — IIT Bhubaneswar ML Hackathon  
+- Guinness World Record Participant — Mumbai Hacks GenAI Hackathon  
+- Team Lead — Dark Arcane Hackathon Team
+
+---
+
+## Education
+
+B.Sc Computer Science (AI, ML, VR)  
+Sandip University  
+2023 – 2026
+
+GPA: 8.18 / 10
 
 ---
 
 ## Connect
 
 LinkedIn  
-https://www.linkedin.com/in/ansh-rajore-98a7b629b/
+https://www.linkedin.com/in/ansh-rajore
 
 Email  
-(Your email here)
+anshrajore1266@gmail.com
