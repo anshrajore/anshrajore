@@ -20,6 +20,9 @@
 🎓 **B.Sc. Computer Science (AI • ML • VR)**  
 🏫 Sandip University — Nashik, India  
 
+🎓 **M.Sc. Data Science **  
+🏫 Parul University — Vadodara, India  
+
 💡 I build **AI powered systems, scalable web applications, and immersive XR experiences.**
 
 My work focuses on:
@@ -177,9 +180,11 @@ AI-based mental wellness assistant.
 | Hack2Infinity | Winner |
 | KJSSE Hack 8 | Top 20 |
 | IIT Bhubaneswar ML Hackathon | Finalist |
-| Mumbai Hacks GenAI | Guinness World Record |
+| Sunhacks | Asia Book World Record |
 | Smart India Hackathon | Internal Winner |
 | Kumbhathon | Team Lead |
+| Hackprix | Winner |
+| AI for Good | Winner |
 
 ---
 
