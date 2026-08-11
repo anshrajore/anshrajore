@@ -195,18 +195,20 @@ Converts raw financial data into structured, readable market insight.
 
 ## Analytics
 
+# `09` — GitHub Analytics
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=anshrajore&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0a0e14&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshrajore&layout=compact&hide_border=true&theme=tokyonight&bg_color=0a0e14&title_color=00e5ff&text_color=c9d1d9"/>
+<img
+src="./ansh-github-analytics.svg"
+width="100%"
+alt="Ansh Rajore — GitHub Analytics"
+/>
+
+</div>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshrajore&hide_border=true&theme=tokyonight&background=0a0e14&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshrajore&theme=react-dark&bg_color=0a0e14&color=00e5ff&line=00e5ff&point=ffffff"/>
 
 <br/>
 
