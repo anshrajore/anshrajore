@@ -1,4 +1,12 @@
 <div align="center">
+  
+<p align="center">
+  <img
+    src="./profile-scan.svg"
+    width="100%"
+    alt="Ansh Rajore — Identity Engine"
+  />
+</p>
 
 <img src="./terminal-compile.svg" width="900" alt="agentic pipeline compiling" />
 <br/>
