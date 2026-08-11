@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="./assets/terminal-compile.svg" width="900" alt="agentic pipeline compiling" />
-
+<img src="./terminal-compile.svg" width="900" alt="agentic pipeline compiling" />
 <br/>
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=16&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Building+agentic+AI+systems+in+production;Multi-agent+architectures+%7C+RAG+%7C+LangChain+%7C+n8n;6th+Semester+CS+(AI%2FML)+%40+Sandip+University;Organizer+%E2%80%94+SUNHACKS+2025+%7C+NEST+Nashik" alt="typing-animation" />
@@ -84,8 +83,7 @@ Built interactive React dashboards backed by real-time Node.js APIs; deployed ma
 ## Featured Systems
 
 <div align="center">
-<img src="./assets/agent-network.svg" width="900" alt="live agentic pipeline request flow" />
-<br/>
+<img src="./agent-network.svg" width="900" alt="live agentic pipeline request flow" /><br/>
 <sub>Simplified request path from SanjeevaniX — voice intake through retrieval, reasoning, orchestration, and response.</sub>
 </div>
 
