@@ -1,0 +1,132 @@
+<svg width="900" height="320" viewBox="0 0 900 320" xmlns="http://www.w3.org/2000/svg" font-family="JetBrains Mono, Consolas, Menlo, monospace">
+  <defs>
+    <linearGradient id="netBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0e14"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="898" height="318" rx="10" fill="url(#netBg)" stroke="#1c2733" stroke-width="1.5"/>
+  <text x="30" y="34" font-size="13" fill="#8b949e" letter-spacing="2">AGENTIC PIPELINE — LIVE REQUEST FLOW</text>
+
+  <!-- edges -->
+  <g stroke="#1c2733" stroke-width="2" fill="none">
+    <line x1="95" y1="160" x2="255" y2="95"/>
+    <line x1="95" y1="160" x2="255" y2="225"/>
+    <line x1="285" y1="95" x2="445" y2="160"/>
+    <line x1="285" y1="225" x2="445" y2="160"/>
+    <line x1="475" y1="160" x2="635" y2="95"/>
+    <line x1="475" y1="160" x2="635" y2="225"/>
+    <line x1="665" y1="95" x2="805" y2="160"/>
+    <line x1="665" y1="225" x2="805" y2="160"/>
+  </g>
+
+  <!-- animated flow edges (drawn on top, same coordinates, timed) -->
+  <g stroke="#00e5ff" stroke-width="2.5" fill="none" stroke-linecap="round">
+    <line x1="95" y1="160" x2="255" y2="95" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1">
+      <animate attributeName="stroke-dashoffset" values="1;1;0;0;1" keyTimes="0;0.05;0.12;0.92;1" dur="6s" repeatCount="indefinite"/>
+    </line>
+    <line x1="95" y1="160" x2="255" y2="225" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1">
+      <animate attributeName="stroke-dashoffset" values="1;1;0;0;1" keyTimes="0;0.05;0.12;0.92;1" dur="6s" repeatCount="indefinite"/>
+    </line>
+    <line x1="285" y1="95" x2="445" y2="160" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1">
+      <animate attributeName="stroke-dashoffset" values="1;1;0;0;1" keyTimes="0;0.12;0.19;0.92;1" dur="6s" repeatCount="indefinite"/>
+    </line>
+    <line x1="285" y1="225" x2="445" y2="160" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1">
+      <animate attributeName="stroke-dashoffset" values="1;1;0;0;1" keyTimes="0;0.12;0.19;0.92;1" dur="6s" repeatCount="indefinite"/>
+    </line>
+    <line x1="475" y1="160" x2="635" y2="95" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1">
+      <animate attributeName="stroke-dashoffset" values="1;1;0;0;1" keyTimes="0;0.23;0.3;0.92;1" dur="6s" repeatCount="indefinite"/>
+    </line>
+    <line x1="475" y1="160" x2="635" y2="225" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1">
+      <animate attributeName="stroke-dashoffset" values="1;1;0;0;1" keyTimes="0;0.23;0.3;0.92;1" dur="6s" repeatCount="indefinite"/>
+    </line>
+    <line x1="665" y1="95" x2="805" y2="160" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1">
+      <animate attributeName="stroke-dashoffset" values="1;1;0;0;1" keyTimes="0;0.35;0.42;0.92;1" dur="6s" repeatCount="indefinite"/>
+    </line>
+    <line x1="665" y1="225" x2="805" y2="160" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1">
+      <animate attributeName="stroke-dashoffset" values="1;1;0;0;1" keyTimes="0;0.35;0.42;0.92;1" dur="6s" repeatCount="indefinite"/>
+    </line>
+  </g>
+
+  <!-- node: USER QUERY -->
+  <g>
+    <circle cx="95" cy="160" r="26" fill="none" stroke="#00e5ff" opacity="0">
+      <animate attributeName="opacity" values="0;0.9;0" keyTimes="0;0.03;0.06" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="26;40;26" keyTimes="0;0.03;0.06" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="95" cy="160" r="26" fill="#0d1117" stroke="#3a4552" stroke-width="2"/>
+    <text x="95" y="165" text-anchor="middle" font-size="10" fill="#c9d1d9">QUERY</text>
+    <text x="95" y="205" text-anchor="middle" font-size="11" fill="#6e7681">User</text>
+  </g>
+
+  <!-- node: VOICE AGENT -->
+  <g>
+    <circle cx="270" cy="95" r="26" fill="none" stroke="#00e5ff" opacity="0">
+      <animate attributeName="opacity" values="0;0.9;0" keyTimes="0;0.14;0.17" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="26;40;26" keyTimes="0;0.14;0.17" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="270" cy="95" r="26" fill="#0d1117" stroke="#3a4552" stroke-width="2"/>
+    <text x="270" y="99" text-anchor="middle" font-size="9.5" fill="#c9d1d9">VOICE</text>
+    <text x="270" y="45" text-anchor="middle" font-size="11" fill="#6e7681">Vapi Agent</text>
+  </g>
+
+  <!-- node: RETRIEVER -->
+  <g>
+    <circle cx="270" cy="225" r="26" fill="none" stroke="#00e5ff" opacity="0">
+      <animate attributeName="opacity" values="0;0.9;0" keyTimes="0;0.14;0.17" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="26;40;26" keyTimes="0;0.14;0.17" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="270" cy="225" r="26" fill="#0d1117" stroke="#3a4552" stroke-width="2"/>
+    <text x="270" y="229" text-anchor="middle" font-size="9.5" fill="#c9d1d9">RETRIEVE</text>
+    <text x="270" y="273" text-anchor="middle" font-size="11" fill="#6e7681">Pinecone</text>
+  </g>
+
+  <!-- node: REASONER -->
+  <g>
+    <circle cx="460" cy="160" r="30" fill="none" stroke="#00e5ff" opacity="0">
+      <animate attributeName="opacity" values="0;0.9;0" keyTimes="0;0.24;0.27" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="30;46;30" keyTimes="0;0.24;0.27" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="460" cy="160" r="30" fill="#0d1117" stroke="#00e5ff" stroke-width="2.5"/>
+    <text x="460" y="157" text-anchor="middle" font-size="9.5" fill="#e6edf3">REASON</text>
+    <text x="460" y="169" text-anchor="middle" font-size="9.5" fill="#e6edf3">LangChain</text>
+    <text x="460" y="205" text-anchor="middle" font-size="11" fill="#6e7681">Multi-Agent Core</text>
+  </g>
+
+  <!-- node: ORCHESTRATOR -->
+  <g>
+    <circle cx="650" cy="95" r="26" fill="none" stroke="#00e5ff" opacity="0">
+      <animate attributeName="opacity" values="0;0.9;0" keyTimes="0;0.36;0.39" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="26;40;26" keyTimes="0;0.36;0.39" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="650" cy="95" r="26" fill="#0d1117" stroke="#3a4552" stroke-width="2"/>
+    <text x="650" y="99" text-anchor="middle" font-size="9.5" fill="#c9d1d9">n8n</text>
+    <text x="650" y="45" text-anchor="middle" font-size="11" fill="#6e7681">Orchestrator</text>
+  </g>
+
+  <!-- node: DATA LAYER -->
+  <g>
+    <circle cx="650" cy="225" r="26" fill="none" stroke="#00e5ff" opacity="0">
+      <animate attributeName="opacity" values="0;0.9;0" keyTimes="0;0.36;0.39" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="26;40;26" keyTimes="0;0.36;0.39" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="650" cy="225" r="26" fill="#0d1117" stroke="#3a4552" stroke-width="2"/>
+    <text x="650" y="223" text-anchor="middle" font-size="9" fill="#c9d1d9">REDIS</text>
+    <text x="650" y="234" text-anchor="middle" font-size="9" fill="#c9d1d9">SQL</text>
+    <text x="650" y="273" text-anchor="middle" font-size="11" fill="#6e7681">Data Layer</text>
+  </g>
+
+  <!-- node: RESPONSE -->
+  <g>
+    <circle cx="825" cy="160" r="26" fill="none" stroke="#3fb950" opacity="0">
+      <animate attributeName="opacity" values="0;0.95;0.95;0" keyTimes="0;0.47;0.85;0.9" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="26;40;40;26" keyTimes="0;0.47;0.85;0.9" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="825" cy="160" r="26" fill="#0d1117" stroke="#3a4552" stroke-width="2"/>
+    <text x="825" y="164" text-anchor="middle" font-size="9.5" fill="#c9d1d9">REPLY</text>
+    <text x="825" y="205" text-anchor="middle" font-size="11" fill="#6e7681">Response</text>
+  </g>
+
+  <rect x="1" y="1" width="898" height="318" rx="10" fill="none" stroke="#1c2733" stroke-width="1.5"/>
+</svg>
