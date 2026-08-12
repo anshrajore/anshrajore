@@ -200,7 +200,7 @@ Converts raw financial data into structured, readable market insight.
 <div align="center">
 
 <img
-src="./ansh-github-analytics.svg"
+src="./anshrajore-github-analytics-live.svg"
 width="100%"
 alt="Ansh Rajore — GitHub Analytics"
 />
